@@ -13,7 +13,6 @@ public class VCard {
 
     public static void main(String[] args) {
         applyNimbus();
-        //Locale.setDefault(Locale.US);
         View.main();
     }
 
